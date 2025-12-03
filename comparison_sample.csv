@@ -1,0 +1,4 @@
+query,baseline_llm_output,rag_output
+"I'm cold","Maybe wear a jacket?","Starbucks 50m away has Hot Cocoa. You also have a 10% coupon. Shall I guide you?"
+"Track my order","I cannot access order systems.","Your order #A92K1 is out for delivery and expected by 6 PM."
+"Any offers?","I'm not sure.","You have 2 loyalty coupons, and nearby stores have 15% winter sale."
