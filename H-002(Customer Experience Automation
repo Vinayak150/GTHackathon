@@ -1,1 +1,35 @@
+📌 Problem Statement — H-002 | Hyper-Personalized Customer Experience Automation
 
+Modern retail customers expect instant, precise, and context-aware support — whether they are checking stock, asking for nearby store recommendations, tracking orders, or seeking personalized offers.
+However, traditional chatbots consistently fail in real-world customer experience scenarios because:
+
+❌ They provide generic one-size-fits-all replies
+
+Instead of using customer history, loyalty data, or context, legacy chatbots return vague responses.
+
+❌ They do not understand vague human expressions
+
+Example:
+
+User: “I’m cold.”
+A generic bot fails, but a real AI assistant should interpret intent.
+
+❌ They lack location and real-time context awareness
+
+Customers expect agents to know:
+
+nearest store
+
+ongoing offers
+
+stock availability
+
+personalized coupons
+
+❌ They cannot retrieve or reason over internal business documents
+
+Policies, store data, loyalty program rules, PDFs, internal FAQs — none are used by traditional chatbots.
+
+❌ They risk exposing sensitive customer information
+
+Many fail to properly mask personally identifiable information (PII) like phone numbers, emails, or order IDs.
