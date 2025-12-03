@@ -1,0 +1,9 @@
+sample_id,retrieval_mode,lat_enabled,history_enabled,precision,recall,rank_score,notes
+1,full,1,1,0.92,0.87,0.91,"Best performance with all signals"
+1,no_location,0,1,0.81,0.72,0.77,"Location missing reduced personalization"
+1,no_history,1,0,0.79,0.69,0.74,"User history essential for accurate offers"
+1,no_retrieval,0,0,0.41,0.38,0.29,"LLM alone fails without knowledge"
+2,full,1,1,0.94,0.89,0.92,"Strong grounding and personalization"
+2,no_location,0,1,0.82,0.74,0.79,"Location is highly influential"
+2,no_history,1,0,0.77,0.66,0.73,"No past purchases = weaker intent"
+2,no_retrieval,0,0,0.39,0.35,0.27,"LLM hallucinated"
