@@ -1,0 +1,14 @@
+[
+  {
+    "query": "I'm cold",
+    "retrieved_docs": ["Winter beverages list", "Nearby Starbucks info"],
+    "output": "The Starbucks 50m from you serves Hot Cocoa. You also have a 10% coupon.",
+    "action": "Would you like directions?"
+  },
+  {
+    "query": "Where is my order?",
+    "retrieved_docs": ["Order policy paragraph 12"],
+    "output": "Your order #XTR81 is currently out for delivery.",
+    "action": "ETA: 5:45 PM"
+  }
+]
