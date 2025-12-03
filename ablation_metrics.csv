@@ -1,0 +1,5 @@
+mode,avg_precision,avg_recall,avg_rank_score
+full,0.93,0.88,0.92
+no_location,0.81,0.73,0.78
+no_history,0.78,0.68,0.74
+no_retrieval,0.40,0.36,0.28
